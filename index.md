@@ -11,7 +11,7 @@
 [Generational Vocal Power Index ✊ Music 🎤](https://www.kaggle.com/code/pranav941/generational-vocal-power-music-index-analytics)
 
 <img src="https://imgur.com/lghiQjX.jpg"/>  
-<img src="https://imgur.com/GV3lfU7.jpg" width="247"> <img src="https://imgur.com/uQonhu4.jpg" width="247">
+<img src="https://imgur.com/GV3lfU7.jpg" width="248"> <img src="https://imgur.com/uQonhu4.jpg" width="247">
 
 ---
 
