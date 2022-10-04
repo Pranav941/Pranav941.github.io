@@ -2,9 +2,9 @@
 
 ### Data Analytics
 
-[📈 Evolution of Smartphone 2 📱](https://www.kaggle.com/code/pranav941/evolution-of-smartphone-analytics)
+[📈 Evolution of Smartphone 3 📱](https://www.kaggle.com/code/pranav941/evolution-of-smartphone-analytics)
 
-<img src="https://imgur.com/RicRy6B.jpg" width="400" height="480"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width="400" height="480"/> | <img src="https://imgur.com/wziAmbk.jpg" width="400" height="480"/>  
+<img src="https://imgur.com/RicRy6B.jpg" width="100"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width="100"/> | <img src="https://imgur.com/wziAmbk.jpg" width="100"/>  
 :-------------------------:|:-------------------------:|:-------------------------:
 
 ---
