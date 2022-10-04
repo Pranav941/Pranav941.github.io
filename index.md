@@ -2,17 +2,19 @@
 
 ### Data Analytics
 
-[📈 Evolution of Smartphone 📱](https://www.kaggle.com/code/pranav941/evolution-of-smartphone-analytics)
+[📈 Evolution of Smartphone 1 📱](https://www.kaggle.com/code/pranav941/evolution-of-smartphone-analytics)
 
-<img src="https://imgur.com/9ZBlhfT.jpg" width="400"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width="400"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width="400"/>
+<img src="https://imgur.com/9ZBlhfT.jpg" width="400"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width="400"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width="400"/>  
 :-------------------------:|:-------------------------:|:-------------------------:
 
 ---
 
 [Generational Vocal Power Index ✊ Music 🎤](https://www.kaggle.com/code/pranav941/generational-vocal-power-music-index-analytics)
 
-<img src="https://imgur.com/lghiQjX.jpg" width=400 height=300*1.313> | <img src="https://imgur.com/GV3lfU7.jpg" width=400 height=300*1.313> | <img src="https://imgur.com/uQonhu4.jpg" width=400 height=300*1.313>
-:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://imgur.com/lghiQjX.jpg" width="800"/>  
+
+<img src="https://imgur.com/GV3lfU7.jpg" width="400"/> | <img src="https://imgur.com/uQonhu4.jpg" width="400"/>
+:-------------------------:|:-------------------------:
 
 ---
 
