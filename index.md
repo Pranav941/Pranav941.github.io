@@ -18,7 +18,7 @@
 [🚢 Russia global Exports - Insights & EDA 📈](https://www.kaggle.com/code/pranav941/russia-global-exports-insights-eda)
 
 
-##### Project Description : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet dictum sit amet justo donec enim. Magna fringilla urna porttitor rhoncus dolor purus non enim praesent. Odio tempor orci dapibus ultrices in iaculis. Urna et pharetra pharetra massa massa ultricies mi. Scelerisque purus semper eget duis at tellus at. Sed adipiscing diam donec adipiscing tristique risus nec. Risus sed vulputate odio ut enim. Elementum nisi quis eleifend quam adipiscing. Donec enim diam vulputate ut pharetra sit amet. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit amet. Pellentesque habitant morbi tristique senectus et netus et malesuada. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Neque laoreet suspendisse interdum consectetur libero id faucibus. Elementum sagittis vitae et leo.
+##### Project Description : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet dictum sit amet justo donec enim. Magna fringilla urna porttitor rhoncus dolor purus non enim praesent. Odio tempor orci dapibus ultrices in iaculis. Urna et pharetra pharetra massa massa ultricies mi.
 
 ---
 <!-- 
