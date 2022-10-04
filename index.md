@@ -2,16 +2,20 @@
 
 ### Data Analytics
 
-[📈 Evolution of Smartphone TEST 📱](https://www.kaggle.com/code/pranav941/evolution-of-smartphone-analytics)
+[📈 Evolution of Smartphone 📱](https://www.kaggle.com/code/pranav941/evolution-of-smartphone-analytics)
 
-<img src="https://imgur.com/RicRy6B.jpg" width=300 height=300*1.313/> | <img src="https://imgur.com/9ZBlhfT.jpg" width=300 height=300*1.313/> | <img src="https://imgur.com/wziAmbk.jpg" width=300 height=300*1.313/>
+<img src="https://imgur.com/9ZBlhfT.jpg" alt="drawing" width="200"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width=300 height=300*1.313/> | <img src="https://imgur.com/wziAmbk.jpg" width=300 height=300*1.313/>
 :-------------------------:|:-------------------------:|:-------------------------:
+
 ---
+
 [Generational Vocal Power Index ✊ Music 🎤](https://www.kaggle.com/code/pranav941/generational-vocal-power-music-index-analytics)
 
 <img src="https://imgur.com/lghiQjX.jpg" width=400 height=300*1.313> | <img src="https://imgur.com/GV3lfU7.jpg" width=400 height=300*1.313> | <img src="https://imgur.com/uQonhu4.jpg" width=400 height=300*1.313>
 :-------------------------:|:-------------------------:|:-------------------------:
+
 ---
+
 [🚢 Russia global Exports - Insights & EDA 📈](https://www.kaggle.com/code/pranav941/russia-global-exports-insights-eda)
 
 
