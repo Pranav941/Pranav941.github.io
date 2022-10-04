@@ -4,7 +4,7 @@
 
 [📈 Evolution of Smartphone 📱](https://www.kaggle.com/code/pranav941/evolution-of-smartphone-analytics)
 
-<img src="https://imgur.com/9ZBlhfT.jpg" alt="drawing" width="200"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width=300 height=300*1.313/> | <img src="https://imgur.com/wziAmbk.jpg" width=300 height=300*1.313/>
+<img src="https://imgur.com/9ZBlhfT.jpg" width="400"/> | <img src="https://imgur.com/9ZBlhfT.jpg" width="400" height="400*1.313"/> | <img src="https://imgur.com/wziAmbk.jpg" width=300 height=300*1.313/>
 :-------------------------:|:-------------------------:|:-------------------------:
 
 ---
